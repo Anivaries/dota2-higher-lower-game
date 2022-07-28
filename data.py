@@ -16,7 +16,7 @@ hero_names.sort()
 #-------------------- FINDING HERO NAMES ------------------------------------#
 
 #-------------------------- HERO IMAGES ------------------------------------#
-hero_img_list = glob.glob("heroes/*jpg")
+hero_img_list = glob.glob("heroes/*jpg") 
 #-------------------------- HERO IMAGES ------------------------------------#
 
 #-------------------- FINDING HERO WIN RATES BY BRACKET------------------------------------#
